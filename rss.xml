@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Logisticargo.pe]]></title>
+        <description><![CDATA[Logisticargo.pe]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 21:48:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>El Grupo Logisticargo y sus subsidiarios están orgullos en ofrecerles un servicio más completo para todos sus embarques desde y hacia el Perú. Gracias a nuevos contratos con las navieras más confiables, nosotros podemos enfocarnos en brindarle un servicio personalizado a todos nuestro clientes. En Peru, comuníquense con nuestro coordinador comercial para más detalles.</p>]]></description>
+            <link>undefinedel-grupo-logisticargo-y-sus-subsidiarios-estan-orgullos-en-o/index.html</link>
+            <guid isPermaLink="false">74611a19-f4c8-495a-9ab9-a508bbdbd988</guid>
+            <pubDate>Wed, 17 Aug 2016 21:48:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
