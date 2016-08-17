@@ -10,16 +10,16 @@ description: >-
   a nuevos contratos con las navieras más confiables, nosotros podemos
   enfocarnos en brindarle un servicio personalizado a todos nuestro clientes. En
   Peru, comuníquense con nuestro coordinador comercial para más detalles.
-datePublished: '2016-08-17T21:48:54.928Z'
-dateModified: '2016-08-17T21:48:54.478Z'
+datePublished: '2016-08-17T21:54:05.628Z'
+dateModified: '2016-08-17T21:54:05.122Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-08-17-el-grupo-logisticargo-y-sus-subsidiarios-estan-orgullos-en-o.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-17-el-grupo-logisticargo-y-sus-subsidiarios-estan-orgullos-en-o.md
 url: el-grupo-logisticargo-y-sus-subsidiarios-estan-orgullos-en-o/index.html
 _type: Article
 
